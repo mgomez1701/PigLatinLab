@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStoneAssignment\CapStoneAssignment\CapStoneAssignment\bin\Debug\netcoreapp3.0\CapStoneAssignment.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStoneAssignment\CapStoneAssignment\CapStoneAssignment\bin\Debug\netcoreapp3.0\CapStoneAssignment.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStoneAssignment\CapStoneAssignment\CapStoneAssignment\bin\Debug\netcoreapp3.0\CapStoneAssignment.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStoneAssignment\CapStoneAssignment\CapStoneAssignment\bin\Debug\netcoreapp3.0\CapStoneAssignment.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStoneAssignment\CapStoneAssignment\CapStoneAssignment\bin\Debug\netcoreapp3.0\CapStoneAssignment.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStoneAssignment\CapStoneAssignment\CapStoneAssignment\bin\Debug\netcoreapp3.0\CapStoneAssignment.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStoneAssignment\CapStoneAssignment\CapStoneAssignment\obj\Debug\netcoreapp3.0\CapStoneAssignment.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStoneAssignment\CapStoneAssignment\CapStoneAssignment\obj\Debug\netcoreapp3.0\CapStoneAssignment.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStoneAssignment\CapStoneAssignment\CapStoneAssignment\obj\Debug\netcoreapp3.0\CapStoneAssignment.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStoneAssignment\CapStoneAssignment\CapStoneAssignment\obj\Debug\netcoreapp3.0\CapStoneAssignment.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStoneAssignment\CapStoneAssignment\CapStoneAssignment\obj\Debug\netcoreapp3.0\CapStoneAssignment.pdb

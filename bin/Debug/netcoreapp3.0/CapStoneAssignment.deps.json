@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CapStoneAssignment/1.0.0": {
+        "runtime": {
+          "CapStoneAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapStoneAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
